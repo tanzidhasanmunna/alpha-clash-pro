@@ -1,3 +1,3 @@
 # alpha-clash-pro
 
-sure website : [madly-poison.surge.sh](https://madly-poison.surge.sh/)
+sure website : [naive-bushes.surge.sh](https://naive-bushes.surge.sh/)
